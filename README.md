@@ -1,3 +1,3 @@
 # BazarteSagusay
 
-Kent Bazarte
+Kent Bazartee
