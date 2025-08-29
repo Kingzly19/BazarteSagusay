@@ -1,4 +1,4 @@
 # BazarteSagusay
 
 Kent Bazarte
-Gwydd sagusay
+Gwydd Sagusay
