@@ -1,4 +1,3 @@
 # BazarteSagusay
 
-Kent Bazarte
-Gwydd Sagusayy
+Kent Arsil Bazarte
